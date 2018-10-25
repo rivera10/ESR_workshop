@@ -9,44 +9,44 @@ tags: Links Extra References
 ### Links to useful material like books, online classes and more
 
 ## Linux
-### Books
+#### Books
 - [Linux]()
-### Online classes
+#### Online classes
 - [Classes]()
-### Forums
+#### Forums
 - [Forums]()
 
 ## R
-### Books
+#### Books
 - [R]()
-### Online classes
+#### Online classes
 - [Classes]()
-### Bioconductor
+#### Bioconductor
 - [Bioconductor]()
-### Forums
+#### Forums
 - [Forums]()
 
 ## Python
-### Books
+#### Books
 - [Python]()
-### Online classes
+#### Online classes
 - [Classes]()
-### BioPython
+#### BioPython
 - [BioPython]()
-### Forums
+#### Forums
 - [Forums]()
 
 
 ### Other links
 
 ## Perl
-### Books
+#### Books
 - [Perl]()
-### Online classes
+#### Online classes
 - [Classes]()
-### BioPython
+#### BioPerl
 - [BioPerl]()
-### Forums
+#### Forums
 - [Forums]()
 
 ## StackOverflow

@@ -1,14 +1,60 @@
 ---
+layout: article
 title: Useful Links
-key: 20180703
 tags: Links Extra References
 ---
-
-# Useful Links     
+ 
 ![](https://i.imgur.com/KMVYY8O.png)    
 
-- [Linux]()  
-- [Programs]()  
+### Links to useful material like books, online classes and more
+
+## Linux
+### Books
+- [Linux]()
+### Online classes
+- [Classes]()
+### Forums
+- [Forums]()
+
+## R
+### Books
+- [R]()
+### Online classes
+- [Classes]()
+### Bioconductor
+- [Bioconductor]()
+### Forums
+- [Forums]()
+
+## Python
+### Books
+- [Python]()
+### Online classes
+- [Classes]()
+### BioPython
+- [BioPython]()
+### Forums
+- [Forums]()
+
+
+### Other links
+
+## Perl
+### Books
+- [Perl]()
+### Online classes
+- [Classes]()
+### BioPython
+- [BioPerl]()
+### Forums
+- [Forums]()
+
+## StackOverflow
+- [Forums]()
+
+## GitHub
+- [Forums]()
+
 
   
 ---

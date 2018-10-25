@@ -1,14 +1,13 @@
 ---
 layout: article
 titles:
-  en: About
+  en: About the workshop
   zh: 关于
   zh-Hans: 关于
   zh-Hant: 關於
 key: page-about
 ---
 
-# About
 ![](https://i.imgur.com/KMVYY8O.png)  
 
 This workshop was born after the first summer school of the [ITN-IGNITE](). This workshop will provide all the ESRs to get a base knowledge that will allow them to be more productive in their carrer. Moreover, the other summer school could continue from our base and expand more the topics to be covered. We hope this will be an excellent resource for our group of ESRs. All the material will be availbale online in our [GitLab]() webpage so feel free to come back at any time to review or practice.

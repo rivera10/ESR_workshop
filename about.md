@@ -2,6 +2,14 @@
 layout: article
 titles:
   en: ESRs Programming Workshop website
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  
 ---
 
 ![](https://i.imgur.com/KMVYY8O.png)  

@@ -15,7 +15,9 @@ You find all the information related to the workshop: material, excersices, usef
 
 NOTE: This workshop was designed, developep and organized entirely by the ESRs.    
 
-  
+ ---
+ ---
+ ---
 *This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 764840*  
 
 

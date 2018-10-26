@@ -1,6 +1,6 @@
 ---
 layout: article
-title:
+title: ![](https://i.imgur.com/KMVYY8O.png)  
 mode: immersive
 header:
   theme: dark

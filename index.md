@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ESRs Programming Workhop
+title: ESRs Programming Workhop                 Split, Crotia                     December 1-8, 2018
 mode: immersive
 header:
   theme: dark

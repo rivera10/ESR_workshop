@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ![](https://i.imgur.com/KMVYY8O.png)  
+title: Comparative Genomics of Non-Model Invertebrates
 mode: immersive
 header:
   theme: dark
@@ -10,11 +10,11 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/assets/images/cover3.jpg
+    src: ![](https://i.imgur.com/KMVYY8O.png)  
     
 ---
 
-![](https://i.imgur.com/KMVYY8O.png)  
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Comparative Genomics of Non-Model Invertebrates
+title: ITN-IGNITE Programming Workshop Website
 mode: immersive
 header:
   theme: dark
@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: ![](https://i.imgur.com/KMVYY8O.png)  
+    src: /docs/assets/images/cover3.jpg
     
 ---
 

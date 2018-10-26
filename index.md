@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "COMPARATIVE GENOMICS OF NON-MODEL INVERTEBRATES"
+title:
 mode: immersive
 header:
   theme: dark
@@ -14,6 +14,7 @@ article_header:
     
 ---
 
+![](https://i.imgur.com/KMVYY8O.png)  
 
 
 

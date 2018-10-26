@@ -14,8 +14,8 @@ article_header:
     
 ---
   
+  
 ### Welcome!
-
 This workshop was born after the first summer school of the [ITN-IGNITE](http://www.itn-ignite.eu/). This workshop will provide all the ESRs to get a base knowledge that will allow them to be more productive in their degree. Moreover, the other summer schools can take advantage from the topics we are going to teach and could go further into details. We hope this will be an excellent resource for our group of ESRs. All the material will be availbale online in our [GitLab]() webpage for our ESRs and the general public.  
  
 You find all the information related to the workshop: material, excersices, useful links, and more.

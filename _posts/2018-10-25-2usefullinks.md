@@ -34,11 +34,9 @@ tags: Links Extra References
 #### BioPython
 - [BioPython]()
 #### Forums
-- [Forums]()
-
-___  
+- [Forums]()  
   
-## Other links
+# *** Other links ***
 
 # Perl
 #### Books

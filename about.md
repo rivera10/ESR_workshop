@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en: About the ESRs Programming Workshop website
+  en: ESRs Programming Workshop website
 ---
 
 ![](https://i.imgur.com/KMVYY8O.png)  

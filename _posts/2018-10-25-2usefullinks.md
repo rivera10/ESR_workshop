@@ -36,7 +36,13 @@ tags: Links Extra References
 #### Forums
 - [Forums]()  
   
-# ...........................Other links...........................
+# ...........................Other links...........................  
+
+# StackOverflow
+- [Forums]()
+
+# GitHub
+- [Forums]()  
 
 # Perl
 #### Books
@@ -48,14 +54,7 @@ tags: Links Extra References
 #### Forums
 - [Forums]()
 
-# StackOverflow
-- [Forums]()
 
-# GitHub
-- [Forums]()
-
-
-  
 ---
 ###### Creator: Ramon Rivera  
 ###### Last Modified: October 25, 2018  

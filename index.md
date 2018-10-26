@@ -1,9 +1,9 @@
 ---
-layout: article
+layout: home
 ---
 
 
 ![](https://i.imgur.com/KMVYY8O.png)  
 
-# COMPARATIVE GENOMICS OF NON_INVERTEBRATES
+# COMPARATIVE GENOMICS OF NON INVERTEBRATES
 

@@ -8,11 +8,11 @@ header:
 ---    
 
 ### Welcome!
-This workshop was born after the first summer school of the [ITN-IGNITE](http://www.itn-ignite.eu/). This workshop will provide all the ESRs to get a base knowledge that will allow them to be more productive in their degree. Moreover, the other summer schools can take advantage from the topics we are going to teach and could go further into details. We hope this will be an excellent resource for our group of ESRs. All the material will be availbale online in our [GitLab]() webpage for our ESRs and the general public.  
+The ESRs Programming Workshop was born after the first summer school of the [ITN-IGNITE](http://www.itn-ignite.eu/). This workshop will provide all the ESRs to get a base knowledge that will allow them to accomplished all their objectives from their projects. Moreover, the other summer schools can take advantage of the topics we are going to teach and could go further into details without the need to start from basics. We hope this will be an excellent resource for our group of ESRs. All the material will be available online in our [GitLab]() webpage for our ESRs and the general public.  
  
-You find all the information related to the workshop: material, excersices, useful links, and more.
+You find all the information related to the workshop: material, exercises, useful links, and more.
 
-NOTE: This workshop was designed, developep and organized entirely by the ESRs.       
+NOTE: This workshop was designed, developed and organized entirely by the ESRs.       
 
  ![](https://i.imgur.com/KMVYY8O.png)   
  

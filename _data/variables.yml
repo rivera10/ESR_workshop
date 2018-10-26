@@ -31,7 +31,7 @@ default:
     show_date: true
     show_tags: true
     show_author_profile: false
-    full_width: true
+    full_width: false
     sharing: false
     comment: true
     license: false

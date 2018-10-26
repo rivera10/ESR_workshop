@@ -3,8 +3,7 @@ layout: article
 titles: 
   en: ESRs Programming Workshop
 header:
-  theme: dark 
-    
+  theme: dark   
 ---
   
   

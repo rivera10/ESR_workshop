@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: ESRs Programming Workshop
+title: ESRs Programming Workshop
 header:
   theme: dark 
     

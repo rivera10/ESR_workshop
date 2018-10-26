@@ -38,7 +38,7 @@ tags: Links Extra References
 #### Forums
 - [Forums]()  
   
-# ...........................Other links...........................  
+#                           Other links
 
 # StackOverflow
 - [Forums]()

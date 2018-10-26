@@ -1,9 +1,9 @@
 ---
 layout: article
-title: 
+title: ESRs Programming Workshop website. 
 ---
 
-## Welcome to the ESRS Programming Workshop website. 
+### Welcome
 Here you will find all the information related to the workshop: material, excersices, useful links, and more.
 This workshop was designed, developep and organized entirely by the ESRs.  
 

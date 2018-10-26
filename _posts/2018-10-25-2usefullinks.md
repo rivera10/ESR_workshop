@@ -8,15 +8,15 @@ tags: Links Extra References
 
 ### Links to useful material like books, online classes and more
 
-## Linux
+# Linux
 #### Books
 - [Linux]()
 #### Online classes
 - [Classes]()
 #### Forums
 - [Forums]()  
-=
-## R
+
+# R
 #### Books
 - [R]()
 #### Online classes
@@ -26,7 +26,7 @@ tags: Links Extra References
 #### Forums
 - [Forums]()
 
-## Python
+# Python
 #### Books
 - [Python]()
 #### Online classes
@@ -37,9 +37,9 @@ tags: Links Extra References
 - [Forums]()
 
 
-### Other links
+## Other links
 
-## Perl
+# Perl
 #### Books
 - [Perl]()
 #### Online classes
@@ -49,10 +49,10 @@ tags: Links Extra References
 #### Forums
 - [Forums]()
 
-## StackOverflow
+# StackOverflow
 - [Forums]()
 
-## GitHub
+# GitHub
 - [Forums]()
 
 

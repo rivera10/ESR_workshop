@@ -3,9 +3,10 @@ layout: article
 aside:
   toc: true
 title: Useful Links
+header:
+  theme: dark
+  
 ---
- 
-![](https://i.imgur.com/KMVYY8O.png)    
 
 #### Links to useful material like books, online classes and more
 

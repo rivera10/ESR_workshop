@@ -19,7 +19,7 @@ default:
     mode: normal
     type: webpage
     article_header:
-      align: left
+      align: center
       theme: light
     articles:
       show_cover: true

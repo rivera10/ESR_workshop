@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ITN-IGNITE Workshop Website
+title: ESRs Programming Workhop
 mode: immersive
 header:
   theme: dark

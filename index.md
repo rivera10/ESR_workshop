@@ -1,6 +1,6 @@
 ---
 layout: article
-title: COMPARATIVE GENOMICS OF NON-MODEL INVERTEBRATES
+title: "COMPARATIVE GENOMICS OF NON-MODEL INVERTEBRATES"
 mode: immersive
 header:
   theme: dark

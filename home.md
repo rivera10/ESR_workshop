@@ -14,6 +14,10 @@ Innovative Training Network - IGNITE
 
 ![](https://i.imgur.com/KMVYY8O.png)  
 
+![](https://i.imgur.com/LWHb2EO.jpg)
+
+*This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 764840*
+
 ---
 ###### Author: Ramon Rivera  
 ###### Last Modified: October 25, 2018 

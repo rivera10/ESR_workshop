@@ -37,9 +37,8 @@ tags: Links Extra References
 - [BioPython]()
 #### Forums
 - [Forums]()  
-  
-# Other links  
-<span style="color:orange;">Others</span>  
+___
+# Other links   
 
 # StackOverflow
 - [Forums]()

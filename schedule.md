@@ -1,10 +1,12 @@
 ---
 layout: article
 title: Official Schedule
-tags: schedule
+mode: immersive
+header:
+  theme: dark
+  
 ---
 
-![](https://i.imgur.com/KMVYY8O.png)  
 #### Here is the official schedule for the ESRs Programming Workshop in Split, Crotia (December 1-8, 2018).   
 
 #### December 1, 2018

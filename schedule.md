@@ -3,12 +3,7 @@ layout: article
 title: Official Schedule
 header:
   theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028' 
-  
-  
+    
 ---
 
 #### Here is the official schedule for the ESRs Programming Workshop in Split, Crotia (December 1-8, 2018).   

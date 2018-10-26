@@ -3,8 +3,6 @@ layout: article
 aside:
   toc: true
 title: Exercises and Solutions
-key: 20180702
-tags: Exercises Solutions Practice
 ---
 
 ![](https://i.imgur.com/KMVYY8O.png)  

@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Official Schedule
-mode: immersive
 header:
   theme: dark
   

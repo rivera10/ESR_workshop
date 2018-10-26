@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en: ESRs Programming Workshop website
+  en: ESRs Programming Workshop
 mode: immersive
 header:
   theme: dark

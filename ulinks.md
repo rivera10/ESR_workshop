@@ -3,7 +3,6 @@ layout: article
 aside:
   toc: true
 title: Useful Links
-tags: Links Extra References
 ---
  
 ![](https://i.imgur.com/KMVYY8O.png)    

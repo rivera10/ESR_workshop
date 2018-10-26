@@ -1,13 +1,37 @@
 header:
   - titles:
-      en:       Archive
-      zh:       归档
-      zh-Hans:  归档
-      zh-Hant:  歸檔
-    url:        /archive.html
-  - titles:
       en:       About
       zh:       关于
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
+  - titles:
+      en:       Schedule
+      zh:       关于
+      zh-Hans:  关于
+      zh-Hant:  關於
+    url:        /schedule.html
+  - titles:
+      en:       Exercises and Solutions
+      zh:       关于
+      zh-Hans:  关于
+      zh-Hant:  關於
+    url:        /exercises.html
+  - titles:
+      en:       Useful Links
+      zh:       关于
+      zh-Hans:  关于
+      zh-Hant:  關於
+    url:        /ulinks.html
+  - titles:
+      en:       Q & A
+      zh:       关于
+      zh-Hans:  关于
+      zh-Hant:  關於
+    url:        /qna.html
+  - titles:
+      en:       Archive
+      zh:       归档
+      zh-Hans:  归档
+      zh-Hant:  歸檔
+    url:        /archive.html

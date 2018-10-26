@@ -20,13 +20,14 @@ This workshop was born after the first summer school of the [ITN-IGNITE](http://
  
 You find all the information related to the workshop: material, excersices, useful links, and more.
 
-NOTE: This workshop was designed, developep and organized entirely by the ESRs.     
+NOTE: This workshop was designed, developep and organized entirely by the ESRs.       
 
- ---  
  ![](https://i.imgur.com/KMVYY8O.png)   
  ---  
-*This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 764840*    
- ---  
+ 
+*This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 764840*   
+
+---   
 ![](https://i.imgur.com/LWHb2EO.jpg)    
 
 ---  

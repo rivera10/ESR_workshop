@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ESRs Programming Workhop                 MedILS  -  Split, Crotia                     December 1-8, 2018
+title: ESRs Programming Workhop                 MedILS  -  Split, Crotia                     December 1- December 8, 2018
 mode: immersive
 header:
   theme: dark

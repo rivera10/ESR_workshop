@@ -2,7 +2,7 @@
 layout: article
 title: Questions and Answers
 key: 20180703
-tags: QnA
+tags: Q&A
 ---
 
 ![](https://i.imgur.com/KMVYY8O.png)    

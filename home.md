@@ -1,7 +1,6 @@
 ---
 layout: article
-title: Welcome
-tags: Welcome Workshop
+title: 
 ---
 
 #### Welcome to the ESRS Programming Workshop website. 

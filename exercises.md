@@ -3,9 +3,10 @@ layout: article
 aside:
   toc: true
 title: Exercises and Solutions
+header:
+  theme: dark
+  
 ---
-
-![](https://i.imgur.com/KMVYY8O.png)  
 
 #### Material for all the classes of the ESRs Programming Workshop with the solutions. 
 

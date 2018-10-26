@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Questions and Answers
 key: 20180703
 tags: Q&A

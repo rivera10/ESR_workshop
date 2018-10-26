@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ITN-IGNITE Programming Workshop Website
+title: ITN-IGNITE Workshop Website
 mode: immersive
 header:
   theme: dark

@@ -5,5 +5,5 @@ layout: article
 
 ![](https://i.imgur.com/KMVYY8O.png)  
 
-# COMPARATIVE GENOMICS OF NON_INVERTEBRATEs
+# COMPARATIVE GENOMICS OF NON_INVERTEBRATES
 

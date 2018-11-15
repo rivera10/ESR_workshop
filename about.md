@@ -14,14 +14,14 @@ You find all the information related to the workshop: material, exercises, usefu
 
 NOTE: This workshop was designed, developed and organized entirely by the ESRs.       
 
- ![](https://i.imgur.com/KMVYY8O.png=200x200)   
+ ![](https://i.imgur.com/KMVYY8O.png=50x50)   
  
  ---  
  
 *This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 764840*   
 
 ---   
-![](https://i.imgur.com/LWHb2EO.jpg=50x50)    
+![](https://i.imgur.com/LWHb2EO.jpg)    
 
 ---  
 ###### Creator: Ramon Rivera    

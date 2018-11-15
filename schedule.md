@@ -19,7 +19,8 @@ header:
 - [Day 3 Workshop (December 4, 2018)](/ESR_workshop/Day3.html)
 - [Day 4 Workshop (December 5, 2018)](/ESR_workshop/Day4.html)
 - [Day 5 Workshop (December 6, 2018)](/ESR_workshop/Day5.html)
-- [Day 6 Workshop (December 7, 2018)](/ESR_workshop/Day6.html)  
+- [Day 6 Workshop (December 7, 2018)](/ESR_workshop/Day6.html) 
+
 
 #### December 8, 2018 - Return to our Labs
 

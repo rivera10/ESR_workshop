@@ -21,7 +21,7 @@ NOTE: This workshop was designed, developed and organized entirely by the ESRs.
 *This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 764840*   
 
 ---   
-![](https://i.imgur.com/LWHb2EO.jpg)    
+![](https://i.imgur.com/LWHb2EO.jpg =200x200)    
 
 ---  
 ###### Creator: Ramon Rivera    

@@ -14,7 +14,7 @@ You find all the information related to the workshop: material, exercises, usefu
 
 NOTE: This workshop was designed, developed and organized entirely by the ESRs.       
 
- ![](https://i.imgur.com/KMVYY8O.png)   
+ ![](https://i.imgur.com/KMVYY8O.png =200x200)   
  
  ---  
  
